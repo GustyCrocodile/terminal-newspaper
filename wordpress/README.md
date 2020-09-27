@@ -1,7 +1,3 @@
-## Dev setup
+## Wordpress Newspaper Site
 
-```
-systemctl start php7.4-fpm.service
-systemctl start nginx
-```
 
